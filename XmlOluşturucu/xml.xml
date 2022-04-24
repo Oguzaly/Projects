@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ADI>
+  <Objects/>
+  <Mappings>
+    <Mapping Action="DELETE" ElementCode="100009291" ElementID="100009291" ElementType="Program" ParentCode="923-label" ParentID="923-label" ParentType="Category"/>
+  </Mappings>
+</ADI>

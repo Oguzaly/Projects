@@ -3,22 +3,22 @@ import psycopg2
 import xlsxwriter
 import requests
 
-#Prod
-#
-# db_host = '10.98.225.186'
-# db_name = 'atlas_db'
-# db_user = 'saatcms'
-# db_pass = 'cms123'
-# port = '5000'
-#
+# Prod
 
-#Staging
-
-db_host = '10.98.228.149'
+db_host = '10.98.225.186'
 db_name = 'atlas_db'
 db_user = 'saatcms'
 db_pass = 'cms123'
 port = '5000'
+
+
+#Staging
+#
+# db_host = '10.98.228.149'
+# db_name = 'atlas_db'
+# db_user = 'saatcms'
+# db_pass = 'cms123'
+# port = '5000'
 
 conn=psycopg2.connect(dbname=db_name,user=db_user,password=db_pass,host=db_host,port=port)
 cur=conn.cursor()
@@ -31,7 +31,7 @@ frsh =cur.fetchall()
 
 for i in frsh:
     #print(i[0])
-    url="http://10.98.228.146:8090/planprofiles/"+'{}'.format(i[0])+"/deactivate"
+    url="http://10.98.225.178:8090/planprofiles/"+'{}'.format(i[0])+"/deactivate"
     #print(url)
 
     headers = {}
