@@ -1,9 +1,9 @@
 import os
 import smtplib
 from email.message import EmailMessage
-Email_user=os.environ.get('SaatBildirim@gmail.com')
+Email_user='SaatBildirim@gmail.com'
 
-password=os.environ.get('cmssaat2020')
+password='cmssaat2020'
 
 msg = EmailMessage()
 msg['Subject'] = 'Test Subject'
@@ -11,8 +11,10 @@ msg['From'] = Email_user
 msg['to'] = 'Oguzhan@saatteknoloji.com'
 msg.set_content('centent test')
 
-with smtplib.SMTP('smtp.gmail.com',465) as smtp :
-
+with smtplib.SMTP('smtp.gmail.com',587) as smtp :
+    smtp.ehlo()
+    smtp.starttls()
+    smtp.ehlo()
     smtp.login(Email_user,password)
 
 
