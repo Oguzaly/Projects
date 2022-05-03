@@ -11,8 +11,8 @@ for i in range(1,31):
     print(url)
     response = requests.request("GET", url, headers=headers, data=payload)
     print(response.text)
-    url1 = "http://10.98.225.178:8090/contents"
-    payload1=response
-    headers1 = {'Content-Type': 'application/json'}
-    response = requests.request("PUT", url1, headers=headers1, data=payload1)
-    print(response.text)
+    # url1 = "http://10.98.225.178:8090/contents"
+    # payload1=response
+    # headers1 = {'Content-Type': 'application/json'}
+    # response = requests.request("PUT", url1, headers=headers1, data=payload1)
+    # print(response.text)
