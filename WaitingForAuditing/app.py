@@ -1,13 +1,22 @@
 import requests
+from openpyxl import Workbook,load_workbook
 
-url = "http://10.98.225.184:8084/mw/api/getcontentinfo?id=000621835&type=2"
 
-payload={}
-headers = {}
+wp = load_workbook('C:/Users/HP/Desktop/playground/WaitingForAuditing/guid.xlsx')
+ws = wp.active
 
-response = requests.request("GET", url, headers=headers, data=payload)
+with open('C:/Users/HP/Desktop/playground/WaitingForAuditing/status.csv','a') as f:
 
-print(response.text)
+    for row in ws['A']:
 
-print(type(response))
-response(status)
+
+        url = "http://10.98.225.184:8084/mw/api/getcontentinfo?id="+'{}'.format(row.value)+"&type=1"
+
+        payload={}
+        headers = {}
+
+        response = requests.request("GET", url, headers=headers, data=payload)
+
+        print(response.text)
+        print(i)
+        f.write(response.text+'\n')

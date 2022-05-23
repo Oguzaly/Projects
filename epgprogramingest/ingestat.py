@@ -16,7 +16,7 @@ for row in ws['A']:
     payload={}
     headers = {}
 
-    print(row.value , 'content id li içeriğe ingest atıldı')
+    print(row.value , ' id li epg ye ingest atıldı')
 
 
 #    print(url)
