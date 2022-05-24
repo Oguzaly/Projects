@@ -13,7 +13,7 @@ cur.execute("select guid,content_status from atlas_cms_vod.content where type='M
 frsh =cur.fetchall()
 with open('C:/Users/HP/Desktop/playground/SyncTool/status.csv','a') as f:
     for i in frsh:
-        url = "http://10.98.225.184:8084/mw/api/getcontentinfo?id="+'{}'.format(i)+"&type=1"
+        url = "http://10.98.225.184:8084/mw/api/getcontentinfo?id="+'{}'.format(i[0])+"&type=1"
         payload={}
         headers = {}
         response = requests.request("GET", url, headers=headers, data=payload)
