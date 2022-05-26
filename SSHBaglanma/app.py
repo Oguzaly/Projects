@@ -24,7 +24,7 @@ port = 22
 username = "root"
 password = "Cms2023@Netas.iptv"
 
-command = "ls -ltr"
+command = "cd /home/sa-oguzhan.alyaz/iceriktest/;ls -ltr"
 
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
