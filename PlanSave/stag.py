@@ -16,7 +16,7 @@ for i in ws['A']:
 
     #print(i.value)
 
-    url = "http://10.98.228.146:8090/planprofiles/"+'{}'.format(i.value)
+    url = "http://10.98.225.178:8090/planprofiles/"+'{}'.format(i.value)
 
     #print(url)
 
@@ -42,7 +42,7 @@ for i in ws['A']:
     print("####################################################################################################")
 
 
-    url1 = "http://10.98.228.146:8090/planprofiles/"
+    url1 = "http://10.98.225.178:8090/planprofiles/"
     payload1=response
     headers1 = {
       'Content-Type': 'application/json'
