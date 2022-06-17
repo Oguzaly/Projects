@@ -16,7 +16,7 @@ cur=conn.cursor()
 while (True):
 
 #    cur.execute("select status,count(*) from atlas_cms_vod.plan_profile where content_id in (select id from atlas_cms_vod.content where parent_series_id ='4165173' or id ='4165173') group by status")
-    cur.execute("select content_status ,count(*) from atlas_cms_vod.content where parent_series_id ='4165173' or id ='4165173' group by content_status;")
+    cur.execute("select count(*) from atlas_encoder.encoding_job where ej_status='QUEUED' group by ej_status")
 
     frsh =cur.fetchall()
     print(frsh)

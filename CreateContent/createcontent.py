@@ -1,18 +1,33 @@
-from openpyxl import Workbook,load_workbook
 import requests
-wp=load_workbook('C:/Users/HP/Desktop/playground/CreateContent/createvod.xlsx')
-ws=wp.active
+import json
+from openpyxl import Workbook,load_workbook
 
-for i in range(1,10) :
-    name = ws['A{}'.format(i)].value
 
-    url = "http://10.98.228.146:8090/contents"
+wp = load_workbook('C:/Users/HP/Desktop/playground/CreateContent/temp/createvod.xlsx')
+ws = wp.active
 
-    payload = "{\r\n    \"contentType\": \"Film\",\r\n    \"metadata\": {\r\n        \"videoFormats\": [\r\n            \"HD\"\r\n        ],\r\n        \"year\": 2022\r\n    },\r\n    \"name\": \""+'{}'.format(name)+"\",\r\n    \"type\": \"MOVIE\"\r\n}"
-    headers = {
-      'Content-Type': 'text/plain'
-    }
+url = "http://10.98.228.146:8090/contents"
 
-    response = requests.request("POST", url, headers=headers, data=payload)
 
-    print(response.text)
+with open ('C:/Users/HP/Desktop/playground/CreateContent/temp/createcontent.json','r+') as f :
+
+    #
+    for i in ws['A']:
+
+    #     print (ws['A{}'.format(i)].value)
+
+        data = json.load(f)
+        data['name'] = '{}'.format(**i.value) # <--- add `id` value.
+        #data['name'] ="Oguzz"
+        f.seek(0)        # <--- should reset file position to the beginning.
+        json.dump(data, f, indent=4)
+        f.truncate()     # remove remaining part
+#
+# with open ('C:/Users/HP/Desktop/playground/CreateContent/temp/createcontent.json','r+') as f :
+#     payload=json.load(f)
+#     print(payload)
+#
+#
+# response = requests.request("POST", url, headers=headers, data=payload)
+#
+# print(response.text)
