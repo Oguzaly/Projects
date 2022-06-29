@@ -35,11 +35,10 @@ for a in ws['A']:
                     pass
                     print(i,frsh[i][4],frsh[i+1][3])
                     print(i)
-
                 else:
                     print(i,frsh[i][0],frsh[i][2],frsh[i][4],frsh[i+1][3],'Conflict')
                     f.write('{}'.format(frsh[i][0])+','+'{}'.format(frsh[i][1])+','+'{}'.format(frsh[i][2])+','+'{}'.format(frsh[i][3])+','+'{}'.format(frsh[i][4])+'\n')
 
     except Exception as e:
         print('Bitti')
-        pass
+    
