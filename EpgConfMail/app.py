@@ -56,7 +56,7 @@ yaz = 'Ekteki epglerin zamanları sorunludur. '
 msg = EmailMessage()
 msg['Subject'] = 'Time Conflict Epgler'
 msg['From'] = Email_user
-msg['to'] = 'Oguzhan@saatteknoloji.com','mahmutttttttt.deneme@gmail.com'
+msg['to'] = 'Oguzhan@saatteknoloji.com'
 msg.set_content(str(yaz))
 
 csvfiles = ['C:/Users/HP/Desktop/playground/EpgConflict/Conflict.csv']

@@ -42,4 +42,4 @@ for a in ws['A']:
 
     except Exception as e:
         print('Bitti')
-        pass
+

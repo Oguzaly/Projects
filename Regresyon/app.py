@@ -6,10 +6,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from time import sleep
 from openpyxl import Workbook,load_workbook
 import pytest
-
 driver = webdriver.Chrome('C:/Users/HP/Desktop/Oğuz/workfile/driver/chromedriver.exe')
 driver.get('https://172.27.0.228/atlasui/login')
-
 def enter():
     global url
     gelismis = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[id=details-button]"))).click()
@@ -17,7 +15,7 @@ def enter():
     login = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Username']")))
     password = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Password']")))
     login.send_keys('TestUser')
-    password.send_keys('TestUser')
+    password.send_keys('TestUser1')
     gitlogin = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[class='btn btn-primary btn-block']")))
     gitlogin.click()
     loginalready = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.XPATH,'//button[contains(.,"Login")]'))).click()
@@ -33,16 +31,12 @@ def dealmanagement():
     contractelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//a[contains(.,'Contract Management')]")))#Sayfadaki bir element
     url2=driver.current_url
 dealmanagement()
-
 def licensemanagement():
-
     global url3
     global lisansaddmessage
-
     wp = load_workbook('C:/Users/HP/Desktop/playground/Regresyon/DummyData/licensedata.xlsx')
     ws = wp.active
     try:
-
         licenseelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//a[contains(.,'License Management')]"))).click()
         NewLicense = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//button[contains(.,'New License ')]"))).click()
 
@@ -88,29 +82,22 @@ def licensemanagement():
             BoxOffice.send_keys(Keys.DOWN,Keys.ENTER)
             Add = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//button[contains(.,' Add ')]"))).click()
             sleep(0.5)
-
             #driver.find_element(by=By.XPATH,value='//div[contains(.,"Action completed successfully")]')
             # toastmeassage = driver.find_element(by=By.XPATH,value='//div[contains(.,"Action completed successfully")]')
             # deletemessage1=toastmeassage.text
             #print(WebDriverWait(driver,5).until(EC.presence_of_element_located((By.XPATH,"//div[contains(.,'Action completed successfully')]'"))).text())
-
             lisansaddmessage = driver.find_element(by=By.XPATH,value='//div[contains(.,"Action completed successfully")]').text#Toast mesajı gördü, içince Action completed successfully herhangi bir kelimesi olan mesajı buldu
             sleep(0.5)
             if '200' in lisansaddmessage :                                          #burada mesajda asıl yazan "200\n Action completed successfully "
                 lisansaddmessage = True                                             #93. satırda içinde geçen 3 kelimeye bakıyor
             else :                                                                  #buradaki mesajda içinde 200 geçiyor mu ona bakıyor.
                 lisansaddmessage = False                                            #Bu yüzden düzgün karar veriyor
-
             sleep(0.5)
     except :
         lisansaddmessage = False
         sys.exit(1)
-
     url3=driver.current_url
-
-
 licensemanagement()
-
 def licensemanagementedit():
     global url4
     global message
@@ -120,7 +107,6 @@ def licensemanagementedit():
         lisansTab=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//a[contains(.,'License Management')]"))).click()
         lisansedit=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//tr[1]/td[8]/div/div[1]/a/i"))).click()
         sleep(3)
-
         for i in range(3,4):
             sleep(0.5)
             name=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//input[@name='license.name']")))
@@ -160,11 +146,7 @@ def licensemanagementedit():
         message= False
         pass
     url4=driver.current_url
-
-
-
 licensemanagementedit()
-
 def licensedelete():
     try:
         global deletemessage
@@ -179,15 +161,10 @@ def licensedelete():
             deletemessage = True
         else:
             deletemessage= False
-
     except :
-
         deletemessage = False
         pass
-
-
 licensedelete()
-
 class TestClass:
     def test_mainboard(self):
         assert url == 'https://172.27.0.228/atlasui/atlas/cms/dashboard'
