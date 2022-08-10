@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ADI>
-   <Objects/>
-   <Mappings>
-      <Mapping Action="DELETE" ElementCode="100009291" ElementID="100009291" ElementType="Program" ParentCode="923-label" ParentID="923-label" ParentType="Category"/>
-   </Mappings>
+  <Objects>
+    <Objects Action="REGIST" Code="GroupID" ElementType="Movie" ID="GroupID">
+      <Property Name="Type">1</Property>
+      <Property Name="FileUrl">ftp://ftp_user:test@172.27.0.226:21//contents/GUID/GroupID-movie.json</Property>
+      <Property Name="ScreenFormat">1</Property>
+      <Property Name="Duration">10</Property>
+      <Property Name="Definition">HD</Property>
+      <Property Name="Encryption">1</Property>
+    </Objects>
+  </Objects>
+  <Mappings>
+    <Mapping Action="REGIST" ElementCode="GroupID" ElementID="GroupID" ElementType="Movie" ParentCode="Guid" ParentID="Guid" ParentType="Program"/>
+  </Mappings>
 </ADI>

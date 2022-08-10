@@ -8,6 +8,8 @@ from openpyxl import Workbook,load_workbook
 import pytest
 driver = webdriver.Chrome('C:/Users/HP/Desktop/Oğuz/workfile/driver/chromedriver.exe')
 driver.get('https://172.27.0.228/atlasui/login')
+driver.maximize_window()
+
 def enter():
     global url
     gelismis = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[id=details-button]"))).click()
@@ -15,7 +17,7 @@ def enter():
     login = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Username']")))
     password = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Password']")))
     login.send_keys('TestUser')
-    password.send_keys('TestUser1')
+    password.send_keys('TestUser')
     gitlogin = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[class='btn btn-primary btn-block']")))
     gitlogin.click()
     loginalready = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.XPATH,'//button[contains(.,"Login")]'))).click()
@@ -95,7 +97,6 @@ def licensemanagement():
             sleep(0.5)
     except :
         lisansaddmessage = False
-        sys.exit(1)
     url3=driver.current_url
 licensemanagement()
 def licensemanagementedit():
