@@ -1,0 +1,1521 @@
+<tv date="202208270303 +02:00" generator-info-name="tvp-convertdvbxml" source-info-url="http://www.besmart.com.tr" source-info-name="Be Smart XMLTV Service" generator-info-url="http://www.xmltv.org">
+<channel id="74268074">
+<display-name>TRT SPOR YILDIZ</display-name>
+<icon src=""/>
+</channel>
+<programme channel="74268074" SeriesID="202145yelkenligidanimarkasailgp" Ericsson_ProgramId="2021yelkenligidanimarkasailgp20220827461739095" start="202208270025 +0000" stop="202208270140 +0000">
+<title lang="tr">Yelken Ligi ( Danimarka Sail Gp )</title>
+<desc lang="tr">YELKEN LİGİ ( DANİMARKA SAIL GP )</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3977013</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3977013_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3977014</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3977014_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3977014_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3977016</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145carespor" Ericsson_ProgramId="2021carespor20220827542345327" start="202208270140 +0000" stop="202208270150 +0000">
+<title lang="tr">Çare Spor</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3452384</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3452384_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3452385</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3452385_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3452385_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3452387</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporkitapligi" Ericsson_ProgramId="2021sporkitapligi2022082721898352" start="202208270150 +0000" stop="202208270155 +0000">
+<title lang="tr">Spor Kitaplığı</title>
+<desc lang="tr">Spor Kitaplığı: Spor ile kültürün bir araya geldiği program... Spor Kitaplığı'nda her hafta yeni bir spor kitabı tüm yönleriyle ele alınıyor. Sporcu biyografileri, analiz eserleri, maziden ve günümüzden sportif hikayeler her hafta bir başka eserle Spor Kitaplığı'nda.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3348752</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3348752_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3348753</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3348755</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145lenavrupasusporlarisampiy" Ericsson_ProgramId="2021lenavrupasusporlarisampiy20220827265540758" start="202208270155 +0000" stop="202208270358 +0000">
+<title lang="tr">Len Avrupa Su Sporları Şampiyonası</title>
+<desc lang="tr">11-22 Ağustos tarihleri arasında İtalya'nın başkenti Roma'da düzenlenen Avrupa Su Sporları Şampiyonası ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4326695</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4326695_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4326696</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4326696_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4326696_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4326698</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523istiklalmarsi" Ericsson_ProgramId="2021istiklalmarsi20220827595368241" start="202208270358 +0000" stop="202208270400 +0000">
+<title lang="tr">İstiklal Marşı</title>
+<desc lang="tr">Milli Marşımızın okunması</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3372209</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3372209_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3372210</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372212</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220827465098552" start="202208270400 +0000" stop="202208270415 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyelitvanya" Ericsson_ProgramId="2021hokeyu21kadinlaravrupasam20220827376347743" start="202208270415 +0000" stop="202208270600 +0000">
+<title lang="tr">Türkiye - Litvanya</title>
+<desc lang="tr">Hokey U 21 Kadınlar Avrupa Şampiyonası Final maçı</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_1</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_2</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_3</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_4</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_5</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=2021_6</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220827259944269" start="202208270600 +0000" stop="202208270615 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145wimbledontenisturnuvasi" Ericsson_ProgramId="2021wimbledontenisturnuvasi20220827330734517" start="202208270615 +0000" stop="202208270800 +0000">
+<title lang="tr">Wimbledon Tenis Turnuvası</title>
+<desc lang="tr">4 büyük Grand Slam'den biri olan Wimbledon Açık Tenis Turnuvası heyecanı TRT ekranlarında yaşanıyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3400888</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3400888_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3400889</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3400889_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3400889_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3400891</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi20220827849172545" start="202208270800 +0000" stop="202208270805 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yapabilirmisin" Ericsson_ProgramId="2021yapabilirmisin20220827803761863" start="202208270805 +0000" stop="202208270820 +0000">
+<title lang="tr">Yapabilir Misin?</title>
+<desc lang="tr">'Yapabilir misin?' programında birbirinden farklı sporlar deneniyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2565497</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2565497_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2565498</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024244</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220827754552444" start="202208270820 +0000" stop="202208270900 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni2022082763903040" start="202208270900 +0000" stop="202208270915 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145dunyaatletizmsampiyonasi" Ericsson_ProgramId="2021dunyaatletizmsampiyonasi20220827636023715" start="202208270915 +0000" stop="202208271220 +0000">
+<title lang="tr">Dünya Atletizm Şampiyonası</title>
+<desc lang="tr">15 Temmuz-24 Temmuz tarihleri arasında ABD'nin Eugene kentinde düzenlenen Dünya Atletizm Şampiyonası ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4309006</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4309006_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4309007</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4309009</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220827786532958" start="202208271220 +0000" stop="202208271315 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporkitapligi" Ericsson_ProgramId="2021sporkitapligi20220827937334138" start="202208271315 +0000" stop="202208271320 +0000">
+<title lang="tr">Spor Kitaplığı</title>
+<desc lang="tr">Spor Kitaplığı: Spor ile kültürün bir araya geldiği program... Spor Kitaplığı'nda her hafta yeni bir spor kitabı tüm yönleriyle ele alınıyor. Sporcu biyografileri, analiz eserleri, maziden ve günümüzden sportif hikayeler her hafta bir başka eserle Spor Kitaplığı'nda.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3348752</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3348752_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3348753</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3348755</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145balikesirtriatlonuozeldos" Ericsson_ProgramId="2021balikesirtriatlonuozeldos20220827920613894" start="202208271320 +0000" stop="202208271330 +0000">
+<title lang="tr">Balıkesir Triatlonu ( Özel Dosya )</title>
+<desc lang="tr">BALIKESİR TRIATLONU ( ÖZEL DOSYA )</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3802151</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3802151_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3802152</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3802152_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3802152_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3802154</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220827510058822" start="202208271330 +0000" stop="202208271355 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145elmaslig" Ericsson_ProgramId="2021elmaslig2022082720456708" start="202208271355 +0000" stop="202208271600 +0000">
+<title lang="tr">Elmas Lig</title>
+<desc lang="tr">En önemli atletizm organizasyonlarından olan Elmas Lig'de heyecan devam ediyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=1213457</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=1213457_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=1213458</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=1213458_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=1213458_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3416428</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporladegisenhayatlar" Ericsson_ProgramId="2021sporladegisenhayatlar20220827357238847" start="202208271600 +0000" stop="202208271610 +0000">
+<title lang="tr">Sporla Değişen Hayatlar</title>
+<desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye'nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3803287</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3803287_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3803288</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3803290</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220827496883065" start="202208271610 +0000" stop="202208271615 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220827643119199" start="202208271615 +0000" stop="202208271700 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220827615420143" start="202208271700 +0000" stop="202208271715 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde20220827240855002" start="202208271715 +0000" stop="202208271720 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyeslovenya" Ericsson_ProgramId="2021fiba2022u18basketbolerkek20220827902004824" start="202208271720 +0000" stop="202208271810 +0000">
+<title lang="tr">Türkiye - Slovenya</title>
+<desc lang="tr">FIBA 2022 U18 Basketbol Erkekler Avrupa Şampiyonası yarı final maçında Türkiye ile Slovenya karşı karşıya geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=866255</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=866255_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=866256</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=866256_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=866256_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3459810</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor2022082785076644" start="202208271810 +0000" stop="202208271815 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi20220827783436997" start="202208271815 +0000" stop="202208271820 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyeslovenya" Ericsson_ProgramId="2021turkiyeslovenya20220827308811318" start="202208271820 +0000" stop="202208271910 +0000">
+<title lang="tr">Türkiye - Slovenya</title>
+<desc lang="tr">FIBA 2022 U18 Basketbol Erkekler Avrupa Şampiyonası yarı final maçında Türkiye ile Slovenya karşı karşıya geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=866255</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=866255_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=866256</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=866256_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=866256_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3459810</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yapabilirmisin" Ericsson_ProgramId="2021yapabilirmisin20220827743879358" start="202208271910 +0000" stop="202208271925 +0000">
+<title lang="tr">Yapabilir Misin?</title>
+<desc lang="tr">'Yapabilir misin?' programında birbirinden farklı sporlar deneniyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2565497</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2565497_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2565498</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024244</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporkitapligi" Ericsson_ProgramId="2021sporkitapligi20220827822578431" start="202208271925 +0000" stop="202208271930 +0000">
+<title lang="tr">Spor Kitaplığı</title>
+<desc lang="tr">Spor Kitaplığı: Spor ile kültürün bir araya geldiği program... Spor Kitaplığı'nda her hafta yeni bir spor kitabı tüm yönleriyle ele alınıyor. Sporcu biyografileri, analiz eserleri, maziden ve günümüzden sportif hikayeler her hafta bir başka eserle Spor Kitaplığı'nda.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3348752</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3348752_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3348753</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3348755</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145azerbaycanturkiye" Ericsson_ProgramId="2021azerbaycanturkiye20220827325264100" start="202208271930 +0000" stop="202208272115 +0000">
+<title lang="tr">Azerbaycan - Türkiye</title>
+<desc lang="tr">2023 CEV Avrupa Erkekler Voleybol Şampiyonası eleme karşılaşması...</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3472388</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3472388_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3472389</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3472389_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3472389_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3472391</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220828269943005" start="202208272115 +0000" stop="202208272130 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145wimbledontenisturnuvasi" Ericsson_ProgramId="2021wimbledontenisturnuvasi20220828399649805" start="202208272130 +0000" stop="202208280055 +0000">
+<title lang="tr">Wimbledon Tenis Turnuvası</title>
+<desc lang="tr">4 büyük Grand Slam'den biri olan Wimbledon Açık Tenis Turnuvası heyecanı TRT ekranlarında yaşanıyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3400888</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3400888_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3400889</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3400889_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3400889_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3400891</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145dunyaatletizmsampiyonasi" Ericsson_ProgramId="2021dunyaatletizmsampiyonasi20220828293597636" start="202208280055 +0000" stop="202208280358 +0000">
+<title lang="tr">Dünya Atletizm Şampiyonası</title>
+<desc lang="tr">15 Temmuz-24 Temmuz tarihleri arasında ABD'nin Eugene kentinde düzenlenen Dünya Atletizm Şampiyonası ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4309006</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4309006_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4309007</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4309009</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523istiklalmarsi" Ericsson_ProgramId="2021istiklalmarsi20220828756954816" start="202208280358 +0000" stop="202208280400 +0000">
+<title lang="tr">İstiklal Marşı</title>
+<desc lang="tr">Milli Marşımızın okunması</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3372209</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3372209_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3372210</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372212</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220828706243914" start="202208280400 +0000" stop="202208280415 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yapabilirmisin" Ericsson_ProgramId="2021yapabilirmisin20220828534632646" start="202208280415 +0000" stop="202208280430 +0000">
+<title lang="tr">Yapabilir Misin?</title>
+<desc lang="tr">'Yapabilir misin?' programında birbirinden farklı sporlar deneniyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2565497</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2565497_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2565498</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024244</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor2022082863023611" start="202208280430 +0000" stop="202208280435 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145benimadim" Ericsson_ProgramId="2021benimadim20220828795050646" start="202208280435 +0000" stop="202208280455 +0000">
+<title lang="tr">Benim Adım</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220828625454544" start="202208280455 +0000" stop="202208280535 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145azerbaycanturkiye" Ericsson_ProgramId="2021azerbaycanturkiye2022082818398643" start="202208280535 +0000" stop="202208280655 +0000">
+<title lang="tr">Azerbaycan - Türkiye</title>
+<desc lang="tr">2023 CEV Avrupa Erkekler Voleybol Şampiyonası eleme karşılaşması...</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3472388</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3472388_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3472389</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3472389_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3472389_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3472391</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220828838235350" start="202208280655 +0000" stop="202208280900 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220828531366333" start="202208280900 +0000" stop="202208280915 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145superspor" Ericsson_ProgramId="2021superspor20220828265172059" start="202208280915 +0000" stop="202208280940 +0000">
+<title lang="tr">Süper Spor</title>
+<desc lang="tr">Motorsporları ve Otomobil dünyasının kalbi atıyor. Formula1, Dünya Ralli Şampiyonası, MotoGP, Nascar, Off-Road, Rallikros ve otomobil teknolojisi... Hızın ve cesaretin adresi Süper Spor'da...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3774291</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3774291_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3774292</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3774292_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3774292_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3774294</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi20220828540226236" start="202208280940 +0000" stop="202208280945 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporladegisenhayatlar" Ericsson_ProgramId="2021sporladegisenhayatlar20220828169938770" start="202208280945 +0000" stop="202208280955 +0000">
+<title lang="tr">Sporla Değişen Hayatlar</title>
+<desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye'nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3803287</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3803287_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3803288</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3803290</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220828434005461" start="202208280955 +0000" stop="202208281045 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde2022082812921068" start="202208281045 +0000" stop="202208281050 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220828558073804" start="202208281050 +0000" stop="202208281055 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220828382484795" start="202208281055 +0000" stop="202208281145 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145olimpiyatyildizlari" Ericsson_ProgramId="2021olimpiyatyildizlari2022082898587563" start="202208281145 +0000" stop="202208281200 +0000">
+<title lang="tr">Olimpiyat Yıldızları</title>
+<desc lang="tr">Olimpiyatlarda ülkemizi temsil eden sporcular.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3401055</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3401055_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3401056</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3401056_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3401056_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3401058</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220828384883878" start="202208281200 +0000" stop="202208281215 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yelkenligiplymouthsailgp" Ericsson_ProgramId="2021yelkenligiplymouthsailgp20220828178544534" start="202208281215 +0000" stop="202208281335 +0000">
+<title lang="tr">Yelken Ligi ( Plymouth Sail Gp )</title>
+<desc lang="tr">YELKEN LİGİ ( PLYMOUTH SAİL GP )</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3977013</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3977013_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3977014</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3977014_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3977014_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3977016</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi2022082851077870" start="202208281335 +0000" stop="202208281340 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145benimadim" Ericsson_ProgramId="2021benimadim20220828598252293" start="202208281340 +0000" stop="202208281400 +0000">
+<title lang="tr">Benim Adım</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde2022082868235900" start="202208281400 +0000" stop="202208281405 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yapabilirmisin" Ericsson_ProgramId="2021yapabilirmisin20220828698125320" start="202208281405 +0000" stop="202208281420 +0000">
+<title lang="tr">Yapabilir Misin?</title>
+<desc lang="tr">'Yapabilir misin?' programında birbirinden farklı sporlar deneniyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2565497</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2565497_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2565498</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024244</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220828689441291" start="202208281420 +0000" stop="202208281455 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220828402600392" start="202208281455 +0000" stop="202208281700 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220828205340116" start="202208281700 +0000" stop="202208281715 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi20220828618797976" start="202208281715 +0000" stop="202208281720 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyeispanya" Ericsson_ProgramId="2021turkiyeispanya20220828148955355" start="202208281720 +0000" stop="202208281810 +0000">
+<title lang="tr">Türkiye - İspanya</title>
+<desc lang="tr">FIBA 2022 U18 Basketbol Erkekler Avrupa Şampiyonası final maçında Türkiye ile İspanya karşı karşıya geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=866255</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=866255_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=866256</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=866256_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=866256_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3459810</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220828216842421" start="202208281810 +0000" stop="202208281815 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporkitapligi" Ericsson_ProgramId="2021sporkitapligi20220828787165336" start="202208281815 +0000" stop="202208281820 +0000">
+<title lang="tr">Spor Kitaplığı</title>
+<desc lang="tr">Spor Kitaplığı: Spor ile kültürün bir araya geldiği program... Spor Kitaplığı'nda her hafta yeni bir spor kitabı tüm yönleriyle ele alınıyor. Sporcu biyografileri, analiz eserleri, maziden ve günümüzden sportif hikayeler her hafta bir başka eserle Spor Kitaplığı'nda.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3348752</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3348752_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3348753</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3348755</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyeispanya" Ericsson_ProgramId="2021turkiyeispanya20220828217002181" start="202208281820 +0000" stop="202208281910 +0000">
+<title lang="tr">Türkiye - İspanya</title>
+<desc lang="tr">FIBA 2022 U18 Basketbol Erkekler Avrupa Şampiyonası final maçında Türkiye ile İspanya karşı karşıya geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=866255</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=866255_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=866256</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=866256_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=866256_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3459810</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145benimadim" Ericsson_ProgramId="2021benimadim20220828179412343" start="202208281910 +0000" stop="202208281930 +0000">
+<title lang="tr">Benim Adım</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde20220828750513423" start="202208281930 +0000" stop="202208281935 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145balikesirtriatlonuozeldos" Ericsson_ProgramId="2021balikesirtriatlonuozeldos20220828910673982" start="202208281935 +0000" stop="202208281945 +0000">
+<title lang="tr">Balıkesir Triatlonu ( Özel Dosya )</title>
+<desc lang="tr">BALIKESİR TRIATLONU ( ÖZEL DOSYA )</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3802151</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3802151_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3802152</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3802152_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3802152_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3802154</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk2022082861961852" start="202208281945 +0000" stop="202208282040 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145yapabilirmisin" Ericsson_ProgramId="2021yapabilirmisin20220828254137528" start="202208282040 +0000" stop="202208282055 +0000">
+<title lang="tr">Yapabilir Misin?</title>
+<desc lang="tr">'Yapabilir misin?' programında birbirinden farklı sporlar deneniyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2565497</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2565497_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2565498</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2565498_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024244</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220828589355091" start="202208282055 +0000" stop="202208282120 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145gonlumdekiaslan" Ericsson_ProgramId="2021gonlumdekiaslan2022082928826209" start="202208282120 +0000" stop="202208282145 +0000">
+<title lang="tr">Gönlümdeki Aslan</title>
+<desc lang="tr">Ulusal ve uluslararası su altı spor müsabakalarında 100'ün üzerinde madalya, çeşitli ödüller ve kupalar... Türkiye'nin ilk kadın serbest dalış eğitmeni Şahika Ercümen... Onun izinden giden genç bir sporcu: Yiğit Aslan... Sualtı dünyası, tüm renkleriyle Gönlümdeki Aslan'da...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4004433</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4004433_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4004434</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4004434_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4004434_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4004436</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220829803993928" start="202208282145 +0000" stop="202208282200 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220829411448417" start="202208282200 +0000" stop="202208282335 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde20220829832129538" start="202208282335 +0000" stop="202208282340 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220829275270645" start="202208282340 +0000" stop="202208290105 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145olimpiyatyildizlari" Ericsson_ProgramId="2021olimpiyatyildizlari20220829880515966" start="202208290105 +0000" stop="202208290115 +0000">
+<title lang="tr">Olimpiyat Yıldızları</title>
+<desc lang="tr">Olimpiyatlarda ülkemizi temsil eden sporcular.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3401055</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3401055_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3401056</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3401056_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3401056_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3401058</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporkitapligi" Ericsson_ProgramId="2021sporkitapligi20220829396772052" start="202208290115 +0000" stop="202208290120 +0000">
+<title lang="tr">Spor Kitaplığı</title>
+<desc lang="tr">Spor Kitaplığı: Spor ile kültürün bir araya geldiği program... Spor Kitaplığı'nda her hafta yeni bir spor kitabı tüm yönleriyle ele alınıyor. Sporcu biyografileri, analiz eserleri, maziden ve günümüzden sportif hikayeler her hafta bir başka eserle Spor Kitaplığı'nda.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3348752</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3348752_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3348753</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3348753_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3348755</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporunkadinlari" Ericsson_ProgramId="2021sporunkadinlari20220829627155049" start="202208290120 +0000" stop="202208290200 +0000">
+<title lang="tr">Sporun Kadınları</title>
+<desc lang="tr">Ülkemizdeki kadın sporcuları tanıtarak, pozitif ayrımcılığa destek vermeyi ve sporcu adaylarına örnek olmasını sağlamayı amaçlamaktadır.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2936407</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2936407_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2936408</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2936408_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2936408_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3775363</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220829936025571" start="202208290200 +0000" stop="202208290205 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145turkiyeispanya" Ericsson_ProgramId="2021turkiyeispanya202208293622621" start="202208290205 +0000" stop="202208290358 +0000">
+<title lang="tr">Türkiye - İspanya</title>
+<desc lang="tr">FIBA 2022 U18 Basketbol Erkekler Avrupa Şampiyonası final maçında Türkiye ile İspanya karşı karşıya geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=866255</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=866255_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=866256</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=866256_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=866256_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3459810</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523istiklalmarsi" Ericsson_ProgramId="2021istiklalmarsi20220829682357245" start="202208290358 +0000" stop="202208290400 +0000">
+<title lang="tr">İstiklal Marşı</title>
+<desc lang="tr">Milli Marşımızın okunması</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3372209</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3372209_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3372210</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372212</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220829273870822" start="202208290400 +0000" stop="202208290415 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporladegisenhayatlar" Ericsson_ProgramId="2021sporladegisenhayatlar20220829788780883" start="202208290415 +0000" stop="202208290425 +0000">
+<title lang="tr">Sporla Değişen Hayatlar</title>
+<desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye'nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3803287</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3803287_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3803288</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3803290</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145avrupahaltersampiyonasi" Ericsson_ProgramId="2021avrupahaltersampiyonasi20220829740650006" start="202208290425 +0000" stop="202208290745 +0000">
+<title lang="tr">Avrupa Halter Şampiyonası</title>
+<desc lang="tr">28 Mayıs - 5 Haziran tarihleri arasında Arnavutluk'un başkenti Tiran'da düzenlenen Avrupa Halter Şampiyonası müsabakaları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=869917</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=869917_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=869918</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=869918_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=869918_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3442491</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220829235257500" start="202208290745 +0000" stop="202208290800 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145dunyaatletizmsampiyonasi" Ericsson_ProgramId="2021dunyaatletizmsampiyonasi20220829845409533" start="202208290800 +0000" stop="202208291100 +0000">
+<title lang="tr">Dünya Atletizm Şampiyonası</title>
+<desc lang="tr">15 Temmuz-24 Temmuz tarihleri arasında ABD'nin Eugene kentinde düzenlenen Dünya Atletizm Şampiyonası ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4309006</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4309006_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4309007</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4309009</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporcugunlugu" Ericsson_ProgramId="2021sporcugunlugu20220829241223073" start="202208291100 +0000" stop="202208291110 +0000">
+<title lang="tr">Sporcu Günlüğü</title>
+<desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü'nde...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3774258</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3774258_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3774259</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3774259_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3774259_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3774261</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220829301378779" start="202208291110 +0000" stop="202208291115 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145cocukcaspor" Ericsson_ProgramId="2021cocukcaspor20220829294156446" start="202208291115 +0000" stop="202208291130 +0000">
+<title lang="tr">Çocukça Spor</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145worldsbk" Ericsson_ProgramId="2021worldsbk20220829831414364" start="202208291130 +0000" stop="202208291200 +0000">
+<title lang="tr">World SBK</title>
+<desc lang="tr">Dünya Superbike Şampiyonası</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=763471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=763471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=763472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=763472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=763472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372088</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220829530269847" start="202208291200 +0000" stop="202208291215 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145gonlumdekiaslan" Ericsson_ProgramId="2021gonlumdekiaslan20220829285595492" start="202208291215 +0000" stop="202208291240 +0000">
+<title lang="tr">Gönlümdeki Aslan</title>
+<desc lang="tr">Ulusal ve uluslararası su altı spor müsabakalarında 100'ün üzerinde madalya, çeşitli ödüller ve kupalar... Türkiye'nin ilk kadın serbest dalış eğitmeni Şahika Ercümen... Onun izinden giden genç bir sporcu: Yiğit Aslan... Sualtı dünyası, tüm renkleriyle Gönlümdeki Aslan'da...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4004433</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4004433_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4004434</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4004434_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4004434_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4004436</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporladegisenhayatlar" Ericsson_ProgramId="2021sporladegisenhayatlar20220829605813636" start="202208291240 +0000" stop="202208291250 +0000">
+<title lang="tr">Sporla Değişen Hayatlar</title>
+<desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye'nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3803287</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3803287_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3803288</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3803290</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220829302064578" start="202208291250 +0000" stop="202208291500 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220829120100372" start="202208291500 +0000" stop="202208291630 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220829557826306" start="202208291630 +0000" stop="202208291745 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220829647291274" start="202208291745 +0000" stop="202208291800 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145dunyaatletizmsampiyonasi" Ericsson_ProgramId="2021dunyaatletizmsampiyonasi20220829253121683" start="202208291800 +0000" stop="202208292100 +0000">
+<title lang="tr">Dünya Atletizm Şampiyonası</title>
+<desc lang="tr">15 Temmuz-24 Temmuz tarihleri arasında ABD'nin Eugene kentinde düzenlenen Dünya Atletizm Şampiyonası ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4309006</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4309006_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4309007</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4309007_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4309009</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sportakvimi" Ericsson_ProgramId="2021sportakvimi20220830905316230" start="202208292100 +0000" stop="202208292105 +0000">
+<title lang="tr">Spor Takvimi</title>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporladegisenhayatlar" Ericsson_ProgramId="2021sporladegisenhayatlar2022083047257071" start="202208292105 +0000" stop="202208292115 +0000">
+<title lang="tr">Sporla Değişen Hayatlar</title>
+<desc lang="tr">Spor nedir? Antrenman, hırs, sabır, mücadele, madalya... Hepsi ve hatta daha fazlası... Peki herhangi bir spor dalı bir insanın hayatını ne kadar değiştirebilir? Türkiye'nin farklı bölgelerinden örneklerle bu sorunun cevabı Sporla Değişen Hayatlarda...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3803287</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3803287_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3803288</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3803288_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3803290</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523haberbulteni" Ericsson_ProgramId="2021haberbulteni20220830158047847" start="202208292115 +0000" stop="202208292130 +0000">
+<title lang="tr">Haber Bülteni</title>
+<desc lang="tr">Yurtiçi ve yurtdışındaki amatör spor dünyasından son dakika gelişmeleri, birbirinden özel röportajlar ve başka bir yerde bulamayacağınız özel içerikler, haber bültenlerinde...</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3974127</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3974127_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3974128</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3974128_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3974130</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220830548746437" start="202208292130 +0000" stop="202208292255 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145efsanelerinizinde" Ericsson_ProgramId="2021efsanelerinizinde20220830104342359" start="202208292255 +0000" stop="202208292300 +0000">
+<title lang="tr">Efsanelerin İzinde</title>
+<desc lang="tr">Spor... Tek kelimeye sığdırılan büyük bir hikaye...Sporun nice değerlerine, spor tarihinin en değerlileriyle tanıklık etmeye... Efsanelerin izinde her hafta spor dünyasında iz bırakmış isimlerinin unutulmaz hikayeleriyle ekranlarınıza geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>16:9</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=2995342</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=2995342_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=2995343</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=2995343_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3654064</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220830589019564" start="202208292300 +0000" stop="202208300225 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sporcugunlugu" Ericsson_ProgramId="2021sporcugunlugu20220830285092247" start="202208300225 +0000" stop="202208300240 +0000">
+<title lang="tr">Sporcu Günlüğü</title>
+<desc lang="tr">Sporun farklı branşlarında başarı elde eden ve olimpiyat yolunda emin adımlarla ilerleyen sporcularımızın, yoğun olarak içinde bulundukları antrenman ve kamp koşuşturmacasının yanında, onları özleyen ve bekleyen aile, iş, sosyal ve eğitim hayatları Sporcu Günlüğü'nde...</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3774258</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3774258_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3774259</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3774259_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3774259_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3774261</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="202145sagliklispor" Ericsson_ProgramId="2021sagliklispor20220830613374482" start="202208300240 +0000" stop="202208300245 +0000">
+<title lang="tr">Sağlıklı Spor</title>
+<desc lang="tr">Sağlıklı Spor programının bu bölümünde, Dr. Öğretim Üyesi Mehmet Mesut ÇELEBİ sporcularda uygun ekipman seçiminin önemi hakkında bilgi veriyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3378973</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3378973_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3378974</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3378974_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3378976</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021455islamidayanismaoyunlari" Ericsson_ProgramId="20215islamidayanismaoyunlari20220830922330303" start="202208300245 +0000" stop="202208300358 +0000">
+<title lang="tr">5. İslami Dayanışma Oyunları</title>
+<desc lang="tr">Konya'da düzenlenen 5. İslami Dayanışma Oyunları ekranlara geliyor.</desc>
+<category>Spor</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4324471</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4324471_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4324472</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4324472_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4324474</generic_attrs>
+</programme>
+<programme channel="74268074" SeriesID="2021523istiklalmarsi" Ericsson_ProgramId="2021istiklalmarsi202208309739958" start="202208300358 +0000" stop="202208300558 +0000">
+<title lang="tr">İstiklal Marşı</title>
+<desc lang="tr">Milli Marşımızın okunması</desc>
+<category>Aktüalite</category>
+<video>
+<aspect>4:3</aspect>
+</video>
+<generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3372209</generic_attrs>
+<generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3372209_250</generic_attrs>
+<generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3372210</generic_attrs>
+<generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_400</generic_attrs>
+<generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3372210_144</generic_attrs>
+<generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3372212</generic_attrs>
+</programme>
+</tv>

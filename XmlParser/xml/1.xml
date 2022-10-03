@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="202209021728 +02:00" generator-info-name="tvp-convertdvbxml" source-info-url="http://www.besmart.com.tr" source-info-name="Be Smart XMLTV Service" generator-info-url="http://www.xmltv.org">
+    <channel id="77781078">
+        <display-name>FENERBAHÇE TV</display-name>
+        <icon src=""/>
+    </channel>
+    <programme channel="77781078" SeriesID="4745fenerbahceumraniyespor" Ericsson_ProgramId="47fenerbahceumraniyespor2022083081970064" start="202208292100 +0000" stop="202208292215 +0000">
+        <title lang="tr">Fenerbahçe – Ümraniyespor</title>
+        <desc lang="tr">07.08.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220830305460709" start="202208292215 +0000" stop="202208292230 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745macinardindan" Ericsson_ProgramId="47macinardindan20220830220255474" start="202208292230 +0000" stop="202208292300 +0000">
+        <title lang="tr">Maçın Ardından</title>
+        <desc lang="tr">Fenerbahçe – Ümraniyespor /</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=1244129</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=1244129_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=1244130</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=1244130_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=1244130_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3053430</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47452f1b" Ericsson_ProgramId="472f1b20220830458547376" start="202208292300 +0000" stop="202208300000 +0000">
+        <title lang="tr">2F1B</title>
+        <desc lang="tr">Faik Genç, Ferruh Tunay ve Bedri Baykam ile 2F1B ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220830782216433" start="202208300000 +0000" stop="202208300015 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745kartonsapka" Ericsson_ProgramId="47kartonsapka20220830900214526" start="202208300015 +0000" stop="202208300030 +0000">
+        <title lang="tr">Karton Şapka</title>
+        <desc lang="tr">Sol Bekler</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47455cayi" Ericsson_ProgramId="475cayi20220830329775010" start="202208300030 +0000" stop="202208300100 +0000">
+        <title lang="tr">5 Çayı</title>
+        <desc lang="tr">Yusuf Şahin</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4024445</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4024445_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4024446</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4024446_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4024446_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4024448</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745espordafener" Ericsson_ProgramId="47espordafener20220830539393543" start="202208300100 +0000" stop="202208300130 +0000">
+        <title lang="tr">Espor'da Fener</title>
+        <desc lang="tr">Barkın Yıldızbayrak – Türkcan Ulutaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745gununroportaji" Ericsson_ProgramId="47gununroportaji2022083049342873" start="202208300130 +0000" stop="202208300145 +0000">
+        <title lang="tr">Günün Röportajı</title>
+        <desc lang="tr">Alıoskı</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745superyildizlar" Ericsson_ProgramId="47superyildizlar20220830129610459" start="202208300145 +0000" stop="202208300200 +0000">
+        <title lang="tr">Süper Yıldızlar</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745headtohead" Ericsson_ProgramId="47headtohead20220830731997828" start="202208300200 +0000" stop="202208300230 +0000">
+        <title lang="tr">Head To Head</title>
+        <desc lang="tr">Austrıa Wıen</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017096</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017096_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017097</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017099</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesporokullari" Ericsson_ProgramId="47fenerbahcesporokullari20220830286198393" start="202208300230 +0000" stop="202208300300 +0000">
+        <title lang="tr">Fenerbahçe Spor Okulları</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745top50" Ericsson_ProgramId="47top5020220830448942745" start="202208300300 +0000" stop="202208300330 +0000">
+        <title lang="tr">Top 50</title>
+        <desc lang="tr">Avrupa Kupaları</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745kartonsapka" Ericsson_ProgramId="47kartonsapka20220830954107161" start="202208300330 +0000" stop="202208300430 +0000">
+        <title lang="tr">Karton Şapka</title>
+        <desc lang="tr">Sol Bekler</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745darussafakafenerbahcebeko" Ericsson_ProgramId="47darussafakafenerbahcebeko2022083067245376" start="202208300430 +0000" stop="202208300500 +0000">
+        <title lang="tr">Darüşşafaka – Fenerbahçe Beko</title>
+        <desc lang="tr">26.09.2021</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745top50" Ericsson_ProgramId="47top5020220830526441911" start="202208300500 +0000" stop="202208300600 +0000">
+        <title lang="tr">Top 50</title>
+        <desc lang="tr">Avrupa Kupaları</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745gununroportaji" Ericsson_ProgramId="47gununroportaji20220830453936339" start="202208300600 +0000" stop="202208300630 +0000">
+        <title lang="tr">Günün Röportajı</title>
+        <desc lang="tr">Alıoskı</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220830602569042" start="202208300630 +0000" stop="202208300645 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745onun10golu" Ericsson_ProgramId="47onun10golu20220830579881749" start="202208300645 +0000" stop="202208300700 +0000">
+        <title lang="tr">Onun 10 Golü</title>
+        <desc lang="tr">Fenerbahçe tarihinde iz bırakmış futbolcuların, unutulmaz 10 golünden oluşan derleme ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017057</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017057_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017058</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017060</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745galatasarayneffenerbahceb" Ericsson_ProgramId="47galatasarayneffenerbahceb2022083095385564" start="202208300700 +0000" stop="202208300830 +0000">
+        <title lang="tr">Galatasaray Nef – Fenerbahçe Beko</title>
+        <desc lang="tr">11.12.2021</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745espordafener" Ericsson_ProgramId="47espordafener20220830476423686" start="202208300830 +0000" stop="202208300900 +0000">
+        <title lang="tr">Espor'da Fener</title>
+        <desc lang="tr">Valorant</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220830734112484" start="202208300900 +0000" stop="202208300915 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220830527414001" start="202208300915 +0000" stop="202208300930 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesporokullari" Ericsson_ProgramId="47fenerbahcesporokullari20220830982482186" start="202208300930 +0000" stop="202208301000 +0000">
+        <title lang="tr">Fenerbahçe Spor Okulları</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745kartonsapka" Ericsson_ProgramId="47kartonsapka20220830117188106" start="202208301000 +0000" stop="202208301030 +0000">
+        <title lang="tr">Karton Şapka</title>
+        <desc lang="tr">Stoperler</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220830273766955" start="202208301030 +0000" stop="202208301100 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Jonathan Motley</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474530agustoszaferbayramiozel" Ericsson_ProgramId="4730agustoszaferbayramiozel20220830205312450" start="202208301100 +0000" stop="202208301400 +0000">
+        <title lang="tr">30 Ağustos Zafer Bayramı Özel</title>
+        <desc lang="tr">Canlı</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220830530917533" start="202208301400 +0000" stop="202208301415 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati20220830216470980" start="202208301415 +0000" stop="202208301430 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <desc lang="tr">30.08</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesporokullari" Ericsson_ProgramId="47fenerbahcesporokullari20220830254357070" start="202208301430 +0000" stop="202208301500 +0000">
+        <title lang="tr">Fenerbahçe Spor Okulları</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220830479666614" start="202208301500 +0000" stop="202208301540 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220830903546149" start="202208301540 +0000" stop="202208301607 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523anahaber" Ericsson_ProgramId="47anahaber20220830176954440" start="202208301607 +0000" stop="202208301630 +0000">
+        <title lang="tr">Ana Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745guncel" Ericsson_ProgramId="47guncel20220830737062001" start="202208301630 +0000" stop="202208301830 +0000">
+        <title lang="tr">Güncel</title>
+        <desc lang="tr">30 Ağustos Zafer Bayramı Özel</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47452f1b" Ericsson_ProgramId="472f1b20220830108151718" start="202208301830 +0000" stop="202208301930 +0000">
+        <title lang="tr">2F1B</title>
+        <desc lang="tr">Faik Genç, Ferruh Tunay ve Bedri Baykam ile 2F1B ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745guncel" Ericsson_ProgramId="47guncel20220830581919334" start="202208301930 +0000" stop="202208301945 +0000">
+        <title lang="tr">Güncel</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220830184272888" start="202208301945 +0000" stop="202208302025 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220830678629762" start="202208302025 +0000" stop="202208302045 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220830292405342" start="202208302045 +0000" stop="202208302100 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220831509227110" start="202208310630 +0000" stop="202208310645 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745onun10golu" Ericsson_ProgramId="47onun10golu20220831346133004" start="202208310645 +0000" stop="202208310700 +0000">
+        <title lang="tr">Onun 10 Golü</title>
+        <desc lang="tr">Fenerbahçe tarihinde iz bırakmış futbolcuların, unutulmaz 10 golünden oluşan derleme ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017057</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017057_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017058</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017060</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesafiportizmitbe" Ericsson_ProgramId="47fenerbahcesafiportizmitbe20220831481759002" start="202208310700 +0000" stop="202208310830 +0000">
+        <title lang="tr">Fenerbahçe Safiport – İzmit Belediyespor</title>
+        <desc lang="tr">08.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745guncel" Ericsson_ProgramId="47guncel20220831739208429" start="202208310830 +0000" stop="202208310845 +0000">
+        <title lang="tr">Güncel</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745superyildizlar" Ericsson_ProgramId="47superyildizlar20220831299044782" start="202208310845 +0000" stop="202208310900 +0000">
+        <title lang="tr">Süper Yıldızlar</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220831661040756" start="202208310900 +0000" stop="202208310915 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220831191356876" start="202208310915 +0000" stop="202208311000 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47452f1b" Ericsson_ProgramId="472f1b20220831961747357" start="202208311000 +0000" stop="202208311100 +0000">
+        <title lang="tr">2F1B</title>
+        <desc lang="tr">Faik Genç, Ferruh Tunay ve Bedri Baykam ile 2F1B ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220831852885066" start="202208311100 +0000" stop="202208311115 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745turktelekomsporfenerbahce" Ericsson_ProgramId="47turktelekomsporfenerbahce20220831974144473" start="202208311115 +0000" stop="202208311245 +0000">
+        <title lang="tr">Türk Telekomspor – Fenerbahçe Beko</title>
+        <desc lang="tr">25.12.2021</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745superyildizlar" Ericsson_ProgramId="47superyildizlar20220831666629694" start="202208311245 +0000" stop="202208311300 +0000">
+        <title lang="tr">Süper Yıldızlar</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220831854649540" start="202208311300 +0000" stop="202208311315 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220831924767386" start="202208311315 +0000" stop="202208311330 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745besiktasfenerbahce" Ericsson_ProgramId="47besiktasfenerbahce20220831743945467" start="202208311330 +0000" stop="202208311500 +0000">
+        <title lang="tr">Beşiktaş – Fenerbahçe</title>
+        <desc lang="tr">Tekerlekli Sandalye - 31.05.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745avrupadanfutbol" Ericsson_ProgramId="47avrupadanfutbol20220831755892795" start="202208311500 +0000" stop="202208311530 +0000">
+        <title lang="tr">Avrupadan Futbol</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016698</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016698_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016699</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016701</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745superyildizlar" Ericsson_ProgramId="47superyildizlar20220831416247473" start="202208311530 +0000" stop="202208311545 +0000">
+        <title lang="tr">Süper Yıldızlar</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220831223462495" start="202208311545 +0000" stop="202208311555 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745sosyalmedyagunlugu" Ericsson_ProgramId="47sosyalmedyagunlugu20220831920616006" start="202208311555 +0000" stop="202208311607 +0000">
+        <title lang="tr">Sosyal Medya Günlüğü</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017009</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017009_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017010</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017012</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523anahaber" Ericsson_ProgramId="47anahaber20220831247333404" start="202208311607 +0000" stop="202208311630 +0000">
+        <title lang="tr">Ana Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745yakintakip" Ericsson_ProgramId="47yakintakip20220831916556943" start="202208311630 +0000" stop="202208311645 +0000">
+        <title lang="tr">Yakın Takip</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati20220831259637846" start="202208311645 +0000" stop="202208311700 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220831471465093" start="202208311700 +0000" stop="202208311730 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220831673840448" start="202208311730 +0000" stop="202208311745 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220831233688018" start="202208311745 +0000" stop="202208311800 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Vahit Emre Savaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745aciktribun" Ericsson_ProgramId="47aciktribun20220831239242097" start="202208311800 +0000" stop="202208311900 +0000">
+        <title lang="tr">Açık Tribün</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017033</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017033_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017034</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017034_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017034_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017036</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745superyildizlar" Ericsson_ProgramId="47superyildizlar20220831367661517" start="202208311900 +0000" stop="202208311915 +0000">
+        <title lang="tr">Süper Yıldızlar</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220831991511313" start="202208311915 +0000" stop="202208312000 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745avrupadanfutbol" Ericsson_ProgramId="47avrupadanfutbol20220831876306902" start="202208312000 +0000" stop="202208312030 +0000">
+        <title lang="tr">Avrupadan Futbol</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016698</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016698_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016699</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016701</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745yakintakip" Ericsson_ProgramId="47yakintakip2022083114202168" start="202208312030 +0000" stop="202208312045 +0000">
+        <title lang="tr">Yakın Takip</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220831418714698" start="202208312045 +0000" stop="202208312100 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745aciktribun" Ericsson_ProgramId="47aciktribun20220901609200022" start="202208312100 +0000" stop="202208312200 +0000">
+        <title lang="tr">Açık Tribün</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017033</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017033_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017034</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017034_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017034_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017036</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745besiktasfenerbahce" Ericsson_ProgramId="47besiktasfenerbahce20220901879810805" start="202208312200 +0000" stop="202208312330 +0000">
+        <title lang="tr">Beşiktaş – Fenerbahçe</title>
+        <desc lang="tr">Tekerlekli Sandalye - 31.05.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor2022090126120747" start="202208312330 +0000" stop="202209010000 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220901839188287" start="202209010000 +0000" stop="202209010015 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesafiportizmitbe" Ericsson_ProgramId="47fenerbahcesafiportizmitbe20220901918086295" start="202209010015 +0000" stop="202209010145 +0000">
+        <title lang="tr">Fenerbahçe Safiport – İzmit Belediyespor</title>
+        <desc lang="tr">08.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745kickoff" Ericsson_ProgramId="47kickoff20220901744757867" start="202209010145 +0000" stop="202209010245 +0000">
+        <title lang="tr">Kıck Off</title>
+        <desc lang="tr">1988-89 Sezonu +5 Gol</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745turktelekomsporfenerbahce" Ericsson_ProgramId="47turktelekomsporfenerbahce20220901978365891" start="202209010245 +0000" stop="202209010415 +0000">
+        <title lang="tr">Türk Telekomspor – Fenerbahçe Beko</title>
+        <desc lang="tr">25.12.2021</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745avrupadanfutbol" Ericsson_ProgramId="47avrupadanfutbol20220901530564661" start="202209010415 +0000" stop="202209010445 +0000">
+        <title lang="tr">Avrupadan Futbol</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016698</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016698_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016699</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016701</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220901808972997" start="202209010445 +0000" stop="202209010500 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Vahit Emre Savaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220901758443543" start="202209010500 +0000" stop="202209010515 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220901998786445" start="202209010515 +0000" stop="202209010600 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220901943391967" start="202209010600 +0000" stop="202209010630 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220901879176072" start="202209010630 +0000" stop="202209010645 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745onun10golu" Ericsson_ProgramId="47onun10golu20220901520859447" start="202209010645 +0000" stop="202209010700 +0000">
+        <title lang="tr">Onun 10 Golü</title>
+        <desc lang="tr">Fenerbahçe tarihinde iz bırakmış futbolcuların, unutulmaz 10 golünden oluşan derleme ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017057</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017057_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017058</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017060</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220901463255444" start="202209010700 +0000" stop="202209010715 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Vahit Emre Savaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745aciktrubun" Ericsson_ProgramId="47aciktrubun20220901831556117" start="202209010715 +0000" stop="202209010815 +0000">
+        <title lang="tr">Açık Trübün</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745espordafener" Ericsson_ProgramId="47espordafener20220901918176370" start="202209010815 +0000" stop="202209010845 +0000">
+        <title lang="tr">Espor'da Fener</title>
+        <desc lang="tr">Valorant</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati20220901403966953" start="202209010845 +0000" stop="202209010900 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220901744942871" start="202209010900 +0000" stop="202209010915 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220901763088265" start="202209010915 +0000" stop="202209010930 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745yakintakip" Ericsson_ProgramId="47yakintakip20220901561949084" start="202209010930 +0000" stop="202209010945 +0000">
+        <title lang="tr">Yakın Takip</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesafiportogmorma" Ericsson_ProgramId="47fenerbahcesafiportogmorma20220901560898043" start="202209010945 +0000" stop="202209011100 +0000">
+        <title lang="tr">Fenerbahçe Safiport – Ogm Ormanspor</title>
+        <desc lang="tr">23.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220901904440871" start="202209011100 +0000" stop="202209011115 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220901966061663" start="202209011115 +0000" stop="202209011130 +0000">
+        <title lang="tr">Bi' Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcebekobuyukcekmec" Ericsson_ProgramId="47fenerbahcebekobuyukcekmec20220901873915251" start="202209011130 +0000" stop="202209011300 +0000">
+        <title lang="tr">Fenerbahçe Beko – Büyükçekmece Basketol</title>
+        <desc lang="tr">18.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220901400909131" start="202209011300 +0000" stop="202209011315 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745galatasarayfenerbahce" Ericsson_ProgramId="47galatasarayfenerbahce20220901172185783" start="202209011315 +0000" stop="202209011445 +0000">
+        <title lang="tr">Galatasaray- Fenerbahçe</title>
+        <desc lang="tr">Tekerlekli Sandalye - 26.06.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745yakintakip" Ericsson_ProgramId="47yakintakip20220901272093819" start="202209011445 +0000" stop="202209011500 +0000">
+        <title lang="tr">Yakın Takip</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745aciktrubun" Ericsson_ProgramId="47aciktrubun20220901800833413" start="202209011500 +0000" stop="202209011555 +0000">
+        <title lang="tr">Açık Trübün</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745sosyalmedyagunlugu" Ericsson_ProgramId="47sosyalmedyagunlugu20220901468619757" start="202209011555 +0000" stop="202209011607 +0000">
+        <title lang="tr">Sosyal Medya Günlüğü</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017009</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017009_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017010</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017012</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523anahaber" Ericsson_ProgramId="47anahaber20220901734680064" start="202209011607 +0000" stop="202209011630 +0000">
+        <title lang="tr">Ana Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745headtohead" Ericsson_ProgramId="47headtohead20220901333544152" start="202209011630 +0000" stop="202209011730 +0000">
+        <title lang="tr">Head To Head</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017096</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017096_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017097</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017099</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745soztaraftarda" Ericsson_ProgramId="47soztaraftarda20220901151608414" start="202209011730 +0000" stop="202209011745 +0000">
+        <title lang="tr">Söz Taraftarda</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745analizfenerbahce" Ericsson_ProgramId="47analizfenerbahce20220901396267699" start="202209011745 +0000" stop="202209011800 +0000">
+        <title lang="tr">Analiz Fenerbahçe</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017156</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017156_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017157</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017159</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tamsahapress" Ericsson_ProgramId="47tamsahapress20220901642595523" start="202209011800 +0000" stop="202209011900 +0000">
+        <title lang="tr">Tam Saha Press</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017090</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017090_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017091</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017093</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745rakamlarlarakipler" Ericsson_ProgramId="47rakamlarlarakipler20220901952612503" start="202209011900 +0000" stop="202209011930 +0000">
+        <title lang="tr">Rakamlarla Rakipler</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745yakintakip" Ericsson_ProgramId="47yakintakip20220901236136524" start="202209011930 +0000" stop="202209011945 +0000">
+        <title lang="tr">Yakın Takip</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220901268263130" start="202209011945 +0000" stop="202209012000 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Vahit Emre Savaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220901834852056" start="202209012000 +0000" stop="202209012045 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220901472549516" start="202209012045 +0000" stop="202209012100 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tamsahapress" Ericsson_ProgramId="47tamsahapress20220902197917209" start="202209012100 +0000" stop="202209012200 +0000">
+        <title lang="tr">Tam Saha Press</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017090</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017090_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017091</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017093</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745analizfenerbahce" Ericsson_ProgramId="47analizfenerbahce20220902364749364" start="202209012200 +0000" stop="202209012215 +0000">
+        <title lang="tr">Analiz Fenerbahçe</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017156</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017156_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017157</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017159</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745soztaraftarda" Ericsson_ProgramId="47soztaraftarda20220902450028032" start="202209012215 +0000" stop="202209012230 +0000">
+        <title lang="tr">Söz Taraftarda</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745headtohead" Ericsson_ProgramId="47headtohead20220902401168499" start="202209012230 +0000" stop="202209012330 +0000">
+        <title lang="tr">Head To Head</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017096</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017096_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017097</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017099</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi20220902340304134" start="202209012330 +0000" stop="202209012345 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745galatasarayfenerbahce" Ericsson_ProgramId="47galatasarayfenerbahce20220902347023034" start="202209012345 +0000" stop="202209020100 +0000">
+        <title lang="tr">Galatasaray- Fenerbahçe</title>
+        <desc lang="tr">Tekerlekli Sandalye - 26.06.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745rakamlarlarakipler" Ericsson_ProgramId="47rakamlarlarakipler20220902584736273" start="202209020100 +0000" stop="202209020130 +0000">
+        <title lang="tr">Rakamlarla Rakipler</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745espordafener" Ericsson_ProgramId="47espordafener20220902773008953" start="202209020130 +0000" stop="202209020200 +0000">
+        <title lang="tr">Espor'da Fener</title>
+        <desc lang="tr">Valorant</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcesafiportogmorma" Ericsson_ProgramId="47fenerbahcesafiportogmorma20220902483567051" start="202209020200 +0000" stop="202209020300 +0000">
+        <title lang="tr">Fenerbahçe Safiport – Ogm Ormanspor</title>
+        <desc lang="tr">23.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+202209023927989" start="202209020300 +0000" stop="202209020345 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220902992210300" start="202209020345 +0000" stop="202209020400 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcebekobuyukcekmec" Ericsson_ProgramId="47fenerbahcebekobuyukcekmec20220902521943207" start="202209020400 +0000" stop="202209020530 +0000">
+        <title lang="tr">Fenerbahçe Beko – Büyükçekmece Basketol</title>
+        <desc lang="tr">18.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati20220902556657575" start="202209020530 +0000" stop="202209020545 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220902687376675" start="202209020545 +0000" stop="202209020600 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745avrupadanfutbol" Ericsson_ProgramId="47avrupadanfutbol20220902489758218" start="202209020600 +0000" stop="202209020630 +0000">
+        <title lang="tr">Avrupadan Futbol</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016698</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016698_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016699</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016701</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220902685835235" start="202209020630 +0000" stop="202209020645 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745onun10golu" Ericsson_ProgramId="47onun10golu20220902460069280" start="202209020645 +0000" stop="202209020700 +0000">
+        <title lang="tr">Onun 10 Golü</title>
+        <desc lang="tr">Fenerbahçe tarihinde iz bırakmış futbolcuların, unutulmaz 10 golünden oluşan derleme ekrana geliyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017057</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017057_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017058</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017058_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017060</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745headtohead" Ericsson_ProgramId="47headtohead20220902379088952" start="202209020700 +0000" stop="202209020800 +0000">
+        <title lang="tr">Head To Head</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017096</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017096_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017097</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017099</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tamsahapress" Ericsson_ProgramId="47tamsahapress20220902298291787" start="202209020800 +0000" stop="202209020900 +0000">
+        <title lang="tr">Tam Saha Press</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017090</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017090_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017091</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017091_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017093</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220902476686911" start="202209020900 +0000" stop="202209020915 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745topten" Ericsson_ProgramId="47topten20220902998626234" start="202209020915 +0000" stop="202209020930 +0000">
+        <title lang="tr">Top Ten</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028590</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028590_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028591</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686504</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745analizfenerbahce" Ericsson_ProgramId="47analizfenerbahce20220902486945878" start="202209020930 +0000" stop="202209020945 +0000">
+        <title lang="tr">Analiz Fenerbahçe</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017156</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017156_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017157</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017159</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745soztaraftarda" Ericsson_ProgramId="47soztaraftarda20220902524327644" start="202209020945 +0000" stop="202209021000 +0000">
+        <title lang="tr">Söz Taraftarda</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745rakamlarlarakipler" Ericsson_ProgramId="47rakamlarlarakipler20220902999874614" start="202209021000 +0000" stop="202209021030 +0000">
+        <title lang="tr">Rakamlarla Rakipler</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220902689557716" start="202209021030 +0000" stop="202209021045 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Saeıd Marouf</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220902396528615" start="202209021045 +0000" stop="202209021100 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220902976221955" start="202209021100 +0000" stop="202209021115 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati20220902350818467" start="202209021115 +0000" stop="202209021130 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcebekobahcesehirk" Ericsson_ProgramId="47fenerbahcebekobahcesehirk20220902912269822" start="202209021130 +0000" stop="202209021300 +0000">
+        <title lang="tr">Fenerbahçe Beko – Bahçeşehir Koleji</title>
+        <desc lang="tr">23.01.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523haber" Ericsson_ProgramId="47haber20220902213255043" start="202209021300 +0000" stop="202209021315 +0000">
+        <title lang="tr">Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745topten" Ericsson_ProgramId="47topten20220902203739557" start="202209021315 +0000" stop="202209021330 +0000">
+        <title lang="tr">Top Ten</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028590</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028590_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028591</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686504</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745analizfenerbahce" Ericsson_ProgramId="47analizfenerbahce20220902938365812" start="202209021330 +0000" stop="202209021345 +0000">
+        <title lang="tr">Analiz Fenerbahçe</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017156</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017156_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017157</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017159</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745smacor" Ericsson_ProgramId="47smacor20220902497033641" start="202209021345 +0000" stop="202209021400 +0000">
+        <title lang="tr">Smaçör</title>
+        <desc lang="tr">Vahit Emre Savaş</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745avrupadanfutbol" Ericsson_ProgramId="47avrupadanfutbol20220902529976635" start="202209021400 +0000" stop="202209021430 +0000">
+        <title lang="tr">Avrupadan Futbol</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016698</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016698_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016699</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016699_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016701</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745fenerbahcegalatasaray" Ericsson_ProgramId="47fenerbahcegalatasaray20220902147432189" start="202209021430 +0000" stop="202209021555 +0000">
+        <title lang="tr">Fenerbahçe - Galatasaray</title>
+        <desc lang="tr">Tekerlekli Sandalye - 27.06.2022</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745sosyalmedyagunlugu" Ericsson_ProgramId="47sosyalmedyagunlugu20220902532733084" start="202209021555 +0000" stop="202209021607 +0000">
+        <title lang="tr">Sosyal Medya Günlüğü</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017009</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017009_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017010</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017010_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017012</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523anahaber" Ericsson_ProgramId="47anahaber20220902470692449" start="202209021607 +0000" stop="202209021630 +0000">
+        <title lang="tr">Ana Haber</title>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745tarihtebugun" Ericsson_ProgramId="47tarihtebugun20220902952921918" start="202209021630 +0000" stop="202209021645 +0000">
+        <title lang="tr">Tarihte Bugün</title>
+        <desc lang="tr">Fenerbahçe Spor Kulubü tarihinde bugün yaşanan önemli olaylar tekrar hatırlanıyor.</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017045</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017045_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017046</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017046_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017048</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745bidunyaspor" Ericsson_ProgramId="47bidunyaspor20220902394979850" start="202209021645 +0000" stop="202209021700 +0000">
+        <title lang="tr">Bi Dünya Spor</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745topten" Ericsson_ProgramId="47topten20220902257836340" start="202209021700 +0000" stop="202209021715 +0000">
+        <title lang="tr">Top Ten</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028590</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028590_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028591</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028591_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686504</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="474540+" Ericsson_ProgramId="4740+20220902962636019" start="202209021715 +0000" stop="202209021800 +0000">
+        <title lang="tr">40+</title>
+        <desc lang="tr">Derya Yannier</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017039</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017039_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017040</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017040_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017042</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745rakamlarlarakipler" Ericsson_ProgramId="47rakamlarlarakipler20220902790445978" start="202209021800 +0000" stop="202209021830 +0000">
+        <title lang="tr">Rakamlarla Rakipler</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745soztaraftarda" Ericsson_ProgramId="47soztaraftarda20220902146965928" start="202209021830 +0000" stop="202209021845 +0000">
+        <title lang="tr">Söz Taraftarda</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745analizfenerbahce" Ericsson_ProgramId="47analizfenerbahce20220902140388806" start="202209021845 +0000" stop="202209021900 +0000">
+        <title lang="tr">Analiz Fenerbahçe</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017156</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017156_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017157</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017157_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017159</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745headtohead" Ericsson_ProgramId="47headtohead20220902234463849" start="202209021900 +0000" stop="202209022000 +0000">
+        <title lang="tr">Head To Head</title>
+        <desc lang="tr">Fenerbahçe – Kayserispor</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4017096</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4017096_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4017097</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4017097_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4017099</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745espordafener" Ericsson_ProgramId="47espordafener20220902208311756" start="202209022000 +0000" stop="202209022030 +0000">
+        <title lang="tr">Espor'da Fener</title>
+        <desc lang="tr">Lol</desc>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_1</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_2</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_3</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_4</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_5</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/phpscripts/get_station_img.php?id=47_6</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="4745feneriumsaati" Ericsson_ProgramId="47feneriumsaati2022090244858032" start="202209022030 +0000" stop="202209022045 +0000">
+        <title lang="tr">Fenerıum Saati</title>
+        <category>Spor</category>
+        <video>
+            <aspect>4:3</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=4016959</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=4016959_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=4016960</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=4016960_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=4016962</generic_attrs>
+    </programme>
+    <programme channel="77781078" SeriesID="47523gecehaberi" Ericsson_ProgramId="47gecehaberi2022090258569228" start="202209022045 +0000" stop="202209022100 +0000">
+        <title lang="tr">Gece Haberi</title>
+        <desc lang="tr">Fenerbahçe ve spor dünyasında yaşanan son gelişmeler ekrana taşınıyor.</desc>
+        <category>Aktüalite</category>
+        <video>
+            <aspect>16:9</aspect>
+        </video>
+        <generic_attrs name="Image">http://cs.besmart.com.tr/galery/showimage.php?id=3028682</generic_attrs>
+        <generic_attrs name="ImageVRL">http://cs.besmart.com.tr/galery/showimage.php?id=3028682_250</generic_attrs>
+        <generic_attrs name="ImageLandscape">http://cs.besmart.com.tr/galery/showimage.php?id=3028683</generic_attrs>
+        <generic_attrs name="ImageHRL-low">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_400</generic_attrs>
+        <generic_attrs name="ImageHRL-min">http://cs.besmart.com.tr/galery/showimage.php?id=3028683_144</generic_attrs>
+        <generic_attrs name="ImageHRL-high">http://cs.besmart.com.tr/galery/showimage.php?id=3686489</generic_attrs>
+    </programme>
+</tv>

@@ -13,7 +13,7 @@ ws = wp.active
 
 for i in ws['A']:
 
-        url1 = "http://10.98.228.146:8090/planprofiles/"+'{}'.format(i.value)+"/deactivate"
+        url1 = "http://10.98.225.178:8090/planprofiles/"+'{}'.format(i.value)+"/deactivate"
         payload1={}
         headers1 = {}
         response1 = requests.request("POST", url1, headers=headers1, data=payload1)

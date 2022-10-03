@@ -1,48 +1,44 @@
 from openpyxl import Workbook,load_workbook
 import requests
 import json
+import random
+import pprint
 
-
-wp=load_workbook('C:/Users/HP/Desktop/playground/CreateContent/temp/createvod.xlsx')
-ws=wp.active
-
-
-
+class namegenerate:
+    # Aynı ismin birden fazla kullanılmasına izin verilmediği zaman bu kullanılabilir
+    def __init__(self):
+            name_length = 32
+            characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890'
+            name =""
+            for index in range(name_length):
+                name  = name + random.choice(characters)
+            self.name = 'Test - ' + name
 
 def CreateContent():
-
-    for i in range(1,10) :
-
-        #
-        # cdrId= ws['A{}'.format(i)].value
-        name = ws['A{}'.format(i)].value
-        # year = ws['C{}'.format(i)].value
-        #
-        print(name)
-      #  print(i)
-        url = "http://10.98.228.146:8090/contents"
-        payload = json.dumps({
-          "contentType": "Film",
-          "metadata": {
-            "videoFormats": [
-              "HD"
-            ],
-            "year": 2022
-          },
-          "name": "Test - TestContent",
-          "type": "MOVIE"
-        })
-        headers = {
-          'Content-Type': 'application/json'
-        }
-        parsejson = json.loads(payload)
-        parsejson["name"] = '{}'.format(name)
-        print(parsejson)
-        gonder = json.dumps(parsejson)
-        response = requests.request("POST", url, headers=headers, data=gonder)
-        print(response.text)
-print('#########################################################################')
-print('################ Yeni İçerikler Oluşturuldu #############################')
-print('#########################################################################')
+    isim1=namegenerate()
+    url = "http://10.98.228.146:8090/contents"
+    payload = json.dumps({
+      +{}.format("contentType:" isim1.name)+
+      "metadata": {
+        "videoFormats": [
+          "HD"
+        ],
+        "year": 2022
+      },
+      "name": "Test - TestContent",
+      "type": "MOVIE"
+    })
+    headers = {
+      'Content-Type': 'application/json'
+    }
+    parsejson = json.loads(payload)
+    parsejson["name"] = '{}'.format(name)
+    print(parsejson)
+    gonder = json.dumps(parsejson)
+    response = requests.request("POST", url, headers=headers, data=gonder)
+    print(response.text)
+    print('#########################################################################')
+    print('################ Yeni İçerikler Oluşturuldu #############################')
+    print('#########################################################################')
 
 CreateContent()

@@ -12,11 +12,11 @@ for row in ws['A']:
 
 
 
-    url = "http://10.98.225.178:8090/labels/"+'{}'.format(row.value)
+    url = "http://10.98.228.146:8090/labels/"+'{}'.format(row.value)
     payload={}
     headers = {}
 
-    print(row.value , ' id li caste ingest atıldı')
+    print(row.value , ' id li label silindi')
 
 
 #    print(url)
