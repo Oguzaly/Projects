@@ -10,7 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import random
 
 driver = webdriver.Chrome('C:/Users/HP/Desktop/Oğuz/workfile/driver/chromedriver.exe')
-driver.get('https://172.27.0.228/atlasui/login')
+driver.get('http://10.98.228.146/atlasui/login')
 driver.maximize_window()
 
 class namegenerate:
@@ -78,7 +78,7 @@ def enter():
     #firstelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"span[class='font-weight-semibold font-size-14']")))
     element1=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'ATLAS')]")))
     TestLogin=driver.current_url #Giriş yaptıktan sonra gelen dashboard sayfas
-    TestLogin =checkurl(TestLogin,'https://172.27.0.228/atlasui/atlas/cms/dashboard')
+    TestLogin =checkurl(TestLogin,'http://10.98.228.146/atlasui/atlas/cms/dashboard')
 
 enter()
 def dealmanagement():
@@ -88,7 +88,7 @@ def dealmanagement():
     element3=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'Deal Management')]"))).click()
     contractelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//a[contains(.,'Contract Management')]")))#Sayfadaki bir element
     TestDealManagement = driver.current_url
-    TestDealManagement = checkurl(TestDealManagement,'https://172.27.0.228/atlasui/atlas/cms/dealing/contract')
+    TestDealManagement = checkurl(TestDealManagement,'http://10.98.228.146/atlasui/atlas/cms/dealing/contract')
 dealmanagement()
 
 def contentmanagement():

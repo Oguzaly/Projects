@@ -19,12 +19,12 @@
 
 import paramiko
 
-host = "10.98.228.146"
+host = "10.98.225.8"
 port = 22
 username = "root"
 password = "Cms2023@Netas.iptv"
 
-command = "cd /home/sa-oguzhan.alyaz/iceriktest/;ls -ltr"
+command = "cd /data/;find . -name '*.vtt' -type f >> /home/deneme.txt"
 
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
