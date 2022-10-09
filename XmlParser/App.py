@@ -19,9 +19,6 @@ with open('C:/Users/HP/Desktop/playground/XmlParser/xmlparse.csv','a') as f:
             if re.search(ara,epgcode):
                 print(epgcode,' ',trimstarttime,' ',trimstoptime,' ',type(epgcode))
                 f.write('{}'.format(i)+','+'{}'.format(epgcode)+','+'{}'.format(trimstarttime)+','+'{}'.format(trimstoptime)+'\n')
-
-
-#
 #
 #
 # print(ET.fromstring(root))
