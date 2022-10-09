@@ -13,7 +13,7 @@ ws = wp.active
 
 for i in ws['A']:
 
-        url1 = "http://10.98.228.146:8090/catchups/"+'{}'.format(i.value)
+        url1 = "http://***.***.***.***:****/catchups/"+'{}'.format(i.value)
         payload1={}
         headers1 = {}
         response1 = requests.request("DELETE", url1, headers=headers1, data=payload1)
