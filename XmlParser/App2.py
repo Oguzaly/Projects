@@ -16,8 +16,6 @@ with open('C:/Users/HP/Desktop/playground/XmlParser/xmlparse.csv','a') as f:
             stoptime =x.attrib['stop']
             f.write('{}'.format(i)+','+'{}'.format(epgcode)+','+'{}'.format(starttime)+','+'{}'.format(stoptime)+'\n')
 
-
-#
 #
 #
 # print(ET.fromstring(root))
