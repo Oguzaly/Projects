@@ -10,7 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import random
 
 driver = webdriver.Chrome('C:/Users/HP/Desktop/Oğuz/workfile/driver/chromedriver.exe')
-driver.get('http://10.98.228.146/atlasui/login')
+driver.get('http://***')
 driver.maximize_window()
 
 class namegenerate:
@@ -67,8 +67,8 @@ def enter():
         pass
     login = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Username']")))
     password = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"input[placeholder='Password']")))
-    login.send_keys('TestUser')
-    password.send_keys('TestUser')
+    login.send_keys('***')
+    password.send_keys('***')
     gitlogin = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[class='btn btn-primary btn-block']")))
     gitlogin.click()
     try:
@@ -78,17 +78,17 @@ def enter():
     #firstelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"span[class='font-weight-semibold font-size-14']")))
     element1=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'ATLAS')]")))
     TestLogin=driver.current_url #Giriş yaptıktan sonra gelen dashboard sayfas
-    TestLogin =checkurl(TestLogin,'http://10.98.228.146/atlasui/atlas/cms/dashboard')
+    TestLogin =checkurl(TestLogin,'http://***')
 
 enter()
 def dealmanagement():
     global TestDealManagement
-    element1=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'ATLAS')]"))).click() #Yuhiiiiii buldummm Thank Selenium Ide
+    element1=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'ATLAS')]"))).click() 
     element2=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'VOD Operations')]"))).click()
     element3=WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//span[contains(.,'Deal Management')]"))).click()
     contractelement = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,"//a[contains(.,'Contract Management')]")))#Sayfadaki bir element
     TestDealManagement = driver.current_url
-    TestDealManagement = checkurl(TestDealManagement,'http://10.98.228.146/atlasui/atlas/cms/dealing/contract')
+    TestDealManagement = checkurl(TestDealManagement,'http://***')
 dealmanagement()
 
 def contentmanagement():
