@@ -12,7 +12,7 @@ import bs4
 import pandas
 
 driver = webdriver.Chrome('C:/Users/HP/Desktop/Oğuz/workfile/driver/chromedriver.exe')
-driver.get('https://10.98.228.2:8443/iptvslcs/web-lte/index.jsp#top')
+driver.get('***')
 driver.maximize_window()
 try:
     gelismis = WebDriverWait(driver,10).until(EC.element_to_be_clickable((By.CSS_SELECTOR,"button[id=details-button]"))).click()
