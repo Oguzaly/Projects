@@ -18,8 +18,8 @@ driver.maximize_window()
 def enter():
     giris = WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="root"]/div/div/div/div/nav/div/div[2]/div[2]/a/div/span[1]'))).click()
     teksifre =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="login"]'))).click()
-    username =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="inp1"]/input'))).send_keys('oguzhan.alyaz3')
-    password =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="pwd1"]'))).send_keys('iviac9lE')
+    username =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="inp1"]/input'))).send_keys('***')
+    password =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="pwd1"]'))).send_keys('***')
     login =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="bg_img"]/div/div[1]/div[2]/div[5]/span'))).click()
     #buraya kadar login
     profile =  WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="root"]/div/div/div/section/div[2]/div[2]/div/div[1]/img'))).click()
